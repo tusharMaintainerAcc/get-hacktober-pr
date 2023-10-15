@@ -1,5 +1,2 @@
 # get-hacktober-pr
-
-
-
-# commit 4
+# commit 3
